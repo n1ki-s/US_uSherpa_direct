@@ -1,2 +1,5 @@
 # US_direct
-Direct extruder for UlTi Steel
+это открытый прокект direct экструдера для принтеров семейства Ulti. Большая благодарность @annex engineering за его Sherpa extruder
+
+BOM:
+
