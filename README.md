@@ -20,3 +20,5 @@ BOM:
 ```
 
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(3).png)
+![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(2).png)
+![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(1).png)
