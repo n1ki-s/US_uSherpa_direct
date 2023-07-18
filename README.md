@@ -25,3 +25,6 @@ BOM:
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(2).png)
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(1).png)
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(4).png)
+![alt text](https://github.com/n1ki-s/US_uSherpa_direct/blob/main/IMG/photo_2023-07-18_23-49-53.jpg)
+![alt text](https://github.com/n1ki-s/US_uSherpa_direct/blob/main/IMG/photo_2023-07-18_23-49-53%20(2).jpg)
+![alt text](https://github.com/n1ki-s/US_uSherpa_direct/blob/main/IMG/photo_2023-07-18_23-49-53%20(3).jpg)
