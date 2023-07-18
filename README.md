@@ -15,4 +15,4 @@ BOM:
     M3 x 12мм DIN912	- 3 шт
     M3 x 20мм ISO7380(DIN912)	- 1 шт
     
-![alt text]([http://url/to/img.png](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(3).png)https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(3).png)
+![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(3).png)
