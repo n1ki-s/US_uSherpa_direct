@@ -1,5 +1,5 @@
 # US_direct
-Это открытый прокект direct экструдера для принтеров семейства Ulti. Большая благодарность @annex_engineering за его Sherpa extruder. Проект использует отзеркаленый Sherpa Micro, таким образом улучшается центр масс и вес мотора распределяется на оба вала крестовины. Используются почти все те же метизы, что и в оригинальных исполнениях Ulti и Sherpa. 
+Это открытый прокект direct экструдера для принтеров семейства Ulti. Интерфейсная плата остаётся штатно, без изменений, как и пластина крепления обдува модели. Большая благодарность @annex_engineering за его Sherpa extruder. Проект использует отзеркаленый Sherpa Micro, таким образом улучшается центр масс и вес мотора распределяется на оба вала крестовины. Используются почти все те же метизы, что и в оригинальных исполнениях Ulti и Sherpa. 
 ```
 BOM:
   Sherpa micro:
@@ -22,3 +22,4 @@ BOM:
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(3).png)
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(2).png)
 ![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(1).png)
+![alt text](https://github.com/sinyavskiy-n/US_direct/blob/main/IMG/IMG%20(4).png)
